@@ -1,27 +1,27 @@
 {
-    "name": "ajax-server",
-    "version": "1.0.0",
-    "description": "Backend server with RESTful API",
-    "main": "server.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node server.js"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/rscarlisle/ajax-server.git"
-    },
-    "author": "Randall Carlisle",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/rscarlisle/ajax-server/issues"
-    },
-    "homepage": "https://github.com/rscarlisle/ajax-server#readme",
-    "dependencies": {
-      "body-parser": "^1.18.2",
-      "cors": "^2.8.4",
-      "express": "^4.16.3",
-      "morgan": "^1.9.0",
-      "uuid": "^3.2.1"
-    }
+  "name": "ajax-server",
+  "version": "1.0.0",
+  "description": "Backend server with RESTful API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rscarlisle/ajax-server.git"
+  },
+  "author": "Randall Carlisle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rscarlisle/ajax-server/issues"
+  },
+  "homepage": "https://github.com/rscarlisle/ajax-server#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "uuid": "^3.2.1"
   }
+}
