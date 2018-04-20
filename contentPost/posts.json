@@ -1,0 +1,13 @@
+{
+    "response":
+    [
+        {
+            "id": "1",
+            "title": "Saluton Mondo"
+        },
+        {
+            "id": "2",
+            "title": "Another Post"
+        }
+    ]
+}
